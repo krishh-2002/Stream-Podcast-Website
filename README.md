@@ -1,6 +1,6 @@
 
 
-## Stream Website
+## Stream Podcast Website
 
 ### This is a web application for streaming podcasts with the following features:
 - User authentication

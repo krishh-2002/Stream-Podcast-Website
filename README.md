@@ -10,7 +10,7 @@
 - Favourite Podcasts
 - Pause podcasts and come back play at same time
 
-###Deployed Project
+### Deployed Project
 - https://podstream.netlify.app/
 
 ### Getting Started

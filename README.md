@@ -10,6 +10,9 @@
 - Favourite Podcasts
 - Pause podcasts and come back play at same time
 
+- ###Deployed Project
+- https://podstream.netlify.app/
+
 ### Getting Started
 To use the application, simply create an account and log in. From there, you can search for podcasts, view popular podcasts on the main dashboard, and listen to podcasts.
 
